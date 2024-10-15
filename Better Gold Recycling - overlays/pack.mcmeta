@@ -1,0 +1,25 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 99
+    },
+    "description": "Smelt more gold items into nuggets or ingots."
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": 41,
+        "directory": "overlay_41"
+      },
+      {
+        "formats": {
+          "min_inclusive": 43,
+          "max_inclusive": 48
+        },
+        "directory": "overlay_48"
+      }
+    ]
+}
+}
