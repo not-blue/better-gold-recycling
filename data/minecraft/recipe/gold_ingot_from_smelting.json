@@ -1,11 +1,7 @@
 {
   "type": "minecraft:smelting",
   "category": "misc",
-  "ingredient": [
-    {
-      "tag": "gold_recycling:becomes_gold_ingot"
-    }
-  ],
+  "ingredient": "#gold_recycling:becomes_gold_ingot",
   "result": {
     "id": "minecraft:gold_ingot"
   },

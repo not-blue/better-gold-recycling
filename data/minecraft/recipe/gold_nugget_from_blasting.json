@@ -1,11 +1,7 @@
 {
   "type": "minecraft:blasting",
   "category": "misc",
-  "ingredient": [
-    {
-      "tag": "gold_recycling:becomes_gold_nugget"
-    }
-  ],
+  "ingredient": "#gold_recycling:becomes_gold_nugget",
   "result": {
     "id": "minecraft:gold_nugget"
   },
